@@ -30,3 +30,13 @@ A **Trie** is a highly efficient tree-based data structure for storing and searc
 - **Version Control:** Git & GitHub
 
 ## 📂 Project Structure
+
+
+## ✨ Future Enhancements
+Persistent data storage using Core Data or Realm
+
+Cloud sync with Firebase
+
+Contact images and details
+
+Dark mode support
